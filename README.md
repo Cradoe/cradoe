@@ -18,6 +18,8 @@ I am a software engineer from Nigeria
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <br>
 <br>
-## Side Projects
-[Daily MSG] ('https://www.daily-msg.com)
-[Flexidink] ('https://www.flexidink.com)
+## Side Projects 
+<br>
+[Daily MSG] (https://www.daily-msg.com)
+<br>
+[Flexidink] (https://www.flexidink.com)
