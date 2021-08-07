@@ -20,6 +20,6 @@ I am a software engineer from Nigeria
 <br>
 ## Side Projects 
 <br>
-[Daily MSG] (https://www.daily-msg.com)
+[Daily MSG](https://www.daily-msg.com)
 <br>
-[Flexidink] (https://www.flexidink.com)
+[Flexidink](https://www.flexidink.com)
