@@ -19,5 +19,5 @@ I am a software engineer from Nigeria
 <br>
 <br>
 ## Side Projects
-[Daily MSG]('https://www.daily-msg.com)
-[Flexidink]('https://www.flexidink.com)
+[Daily MSG] ('https://www.daily-msg.com)
+[Flexidink] ('https://www.flexidink.com)
