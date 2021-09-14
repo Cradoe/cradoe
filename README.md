@@ -15,8 +15,8 @@ I am a software engineer from Nigeria, with more than 3 years of experience deli
 ## Some of my Github Stats
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=Cradoe alt=Cradoe /> </p> -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Cradoe&show_icons=true&include_all_commits=true)](https://github.com/Cradoe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cradoe&layout=compact)](https://github.com/Cradoe/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Cradoe&show_icons=true&include_all_commits=true)](https://github.com/Cradoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cradoe&layout=compact)](https://github.com/Cradoe)
 
 ## Expertise
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
