@@ -1,5 +1,5 @@
 ### Hello World 👋, I am Ismail Obadimu 
-I am a software engineer from Nigeria, with more than 3 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with detail and quality. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem.
+I am a software developer from Nigeria, with more than 3 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with detail and quality. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem.
 - 🔭 Working on multiple frontend and backend projects using React, PHP, and Nodejs
 - 🌱 Learning design patterns in depth
 
