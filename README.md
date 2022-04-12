@@ -13,7 +13,6 @@ I am a software developer from Nigeria, with more than 3 years of experience del
 <br />
 
 ## Some of my Github Stats
-<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=Cradoe alt=Cradoe /> </p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Cradoe&show_icons=true&include_all_commits=true)](https://github.com/Cradoe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cradoe&layout=compact)](https://github.com/Cradoe)
