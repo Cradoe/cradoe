@@ -29,6 +29,6 @@ I am a software developer from Nigeria, with more than 3 years of experience del
 ## Side Projects 
 - [Daily MSG - Mobile app that provide fresh quotes/advice/sayings every day that is intended to inspire the day to day life situations easier for our users.](https://www.daily-msg.com)
 - [Flexidink - Empowering people with easy-to-use tools for making a customized apparels](https://www.flexidink.com)
-- [Friconn - Learning companion for African students](https://www.friconn.com)
+<!-- - [Friconn - Learning companion for African students](https://www.friconn.com) -->
 
 
