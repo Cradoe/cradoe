@@ -12,10 +12,10 @@ I am a software developer from Nigeria, with more than 3 years of experience del
 
 <br />
 
-## Some of my Github Stats
+<!-- ## Some of my Github Stats -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Cradoe&show_icons=true&include_all_commits=true)](https://github.com/Cradoe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cradoe&layout=compact)](https://github.com/Cradoe)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=Cradoe&show_icons=true&include_all_commits=true)](https://github.com/Cradoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cradoe&layout=compact)](https://github.com/Cradoe) -->
 
 ## Expertise
 - JavaScript: React, Vue JS, NextJS, NuxtJS
