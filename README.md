@@ -7,7 +7,7 @@ I am a software developer from Nigeria, with more than 3 years of experience del
 
 [![Gmail Badge](https://img.shields.io/badge/-me@ismailobadimu.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@ismailobadimu.com)](mailto:me@ismailobadimu.com)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ismailobadimu)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/IamCradoe)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/ismailobadimu)
 [<img align="left" alt="Portfolio" src="https://img.shields.io/website?up_color=white&up_message=online&url=https%3A%2F%2Fismailobadimu.com" />](https://www.ismailobadimu.com/)
 
 <br />
