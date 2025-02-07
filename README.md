@@ -1,17 +1,15 @@
-### Hello World  
-I'm a software engineer focused on the front end.
+### Hello there  
+I'm a full-stack developer from Nigeria.
 
-I've always been fascinated by the power of the web to connect and empower people. I develop user-friendly and powerful applications that provide meaningful experiences for all users.
+My main focus is building well-architected applications that can scale and stand the test of time.
 
-Hopefully, we cross paths in the real world someday and we can make it a better place together.
+I've spent years building applications and tools that have changed—and continue to change—the way people perform their day-to-day activities.
 
+Hopefully, we cross paths in the real world someday, and together, we can make it a better place.
 
 ## Expertise
-- JavaScript: React, Vue JS, NextJS
-- TypeScript
-- Testing: Jest, Cypress
-- CSS: Tailwind CSS, Boostrap, SASS
-- HTML
-- Node JS: Express JS
+- TypeScript/JavaScript: React.js, Next.js, ReactNative, Node.js, Express, Nest
+- PHP: Laravel
+- Go
 
 
